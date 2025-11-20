@@ -1,0 +1,15 @@
+/Experts/Examples/
+/Experts/Free Robots/
+/Files/
+/Images/
+/Include/
+!/Include/MyClasses/
+/Indicators/
+/Libraries/
+/Logs/
+/Profiles/
+/Scripts/
+/Services/
+/Shared Projects/
+experts.dat
+.DS_Store
